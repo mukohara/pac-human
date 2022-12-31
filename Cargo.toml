@@ -16,3 +16,11 @@ path = "src/pacman.rs"
 [[bin]]
 name = "snake"
 path = "src/snake.rs"
+
+[[bin]]
+name = "2048"
+path = "src/2048.rs"
+
+[[bin]]
+name = "mario"
+path = "src/mario_siblings.rs"
